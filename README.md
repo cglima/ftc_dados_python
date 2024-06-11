@@ -18,6 +18,12 @@ O curso foi dividido em ciclos.
 
 ## Ciclo 06 - Visualização Interativa
 
+Fazendo dashboard no Streamlit 
+ - Visões de Negócio:
+     - Visão Empresa
+     - Visão Entregadores
+     - Visão Restaurantes 
+
 ## Ciclo 07 - Conceitos de ETL
 
 ## Ciclo 08 - Projeto do Aluno
