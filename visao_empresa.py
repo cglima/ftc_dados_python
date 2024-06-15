@@ -85,7 +85,6 @@ st.sidebar.markdown("""---""")
 
 st.sidebar.markdown('## Selecione uma data limite')
 
-
 date_slider = st.sidebar.slider(
     "Até qual valor?",
     value=datetime(2022, 4, 13),
