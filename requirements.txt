@@ -2,3 +2,5 @@ pandas
 plotly
 folium
 haversine
+streamlit
+streamlit-folium
