@@ -6,25 +6,38 @@
 
 O curso foi dividido em ciclos. 
 
-## Ciclo 01 - Lógica de Programação
+### Ciclo 01 - Lógica de Programação
 
-## Ciclo 02 - Fundamentos da Programação
+### Ciclo 02 - Fundamentos da Programação
 
-## Ciclo 03 - Estrutura de Dados
+### Ciclo 03 - Estrutura de Dados
 
-## Ciclo 04 - Manipulação de Dados
+### Ciclo 04 - Manipulação de Dados
 
-## Ciclo 05 - Transformação de Dados
+### Ciclo 05 - Transformação de Dados
 
-## Ciclo 06 - Visualização Interativa
+- O problema de Negócio
+- Planejamento SAPE
+- Visão Entregadores
+- Visão Restaurantes
+- Visão Empresa
+
+### Ciclo 06 - Visualização Interativa
 
 Fazendo dashboard no Streamlit 
- - Visões de Negócio:
+- Visões de Negócio:
      - Visão Empresa
      - Visão Entregadores
      - Visão Restaurantes 
 
-## Ciclo 07 - Conceitos de ETL
+### Ciclo 07 - Conceitos de ETL
 
-## Ciclo 08 - Projeto do Aluno
+- O conceito de ETL
+- o planejamento do ETL
+- Modularização na prática
+- Criando uma única pagina no Streamlit
+- Hospedando o ETL n Cloud
 
+### Ciclo 08 - Projeto do Aluno
+
+- Projeto final para portfólio
