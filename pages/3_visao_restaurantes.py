@@ -11,6 +11,9 @@ from streamlit_folium import folium_static
 import plotly.graph_objects as go
 
 
+st.set_page_config(page_title = 'Visão Restaurantes', page_icon='🍽️', layout='wide')
+
+
 # ------------------------------------------------
 ## Funções
 # ------------------------------------------------
