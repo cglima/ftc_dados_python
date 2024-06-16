@@ -6,8 +6,8 @@ st.set_page_config(
     page_icon="🍲"
 )
 
-image_path = "/home/ciana/repositorios/ftc_dados_python/"
-image = Image.open( image_path + 'indian-curry.png')
+# image_path = "/home/ciana/repositorios/ftc_dados_python/"
+image = Image.open('indian-curry.png')
 st.sidebar.image(image, width=120)
 
 st.sidebar.markdown('# Curry Company')
@@ -30,3 +30,5 @@ st.markdown(
         - Indicadores semanais de crescimento dos restaurantes
     """
 )
+
+st.sidebar.markdown("### Powered by Comunidade DS")

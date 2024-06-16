@@ -114,8 +114,8 @@ df1 = clean_code(df)
 
 st.header('Marketplace - Visão Entregadores')
 
-image_path = "/home/ciana/repositorios/ftc_dados_python/indian-curry.png"
-image = Image.open(image_path)
+# image_path = "/home/ciana/repositorios/ftc_dados_python/indian-curry.png"
+image = Image.open('indian-curry.png')
 st.sidebar.image(image, width=120)
 
 
